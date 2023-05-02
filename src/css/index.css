@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'MyFont';
+    src: local('MyFont'), url(../fonts/futura-medium-bt.ttf) format('truetype');
+}
+
+body {
+    font-family: MyFont;
+    color: white;
+    background-color: #0D1117;
+}
